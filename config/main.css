@@ -4,7 +4,7 @@
 
 :root {
   --background-color: #341539 !important;
-  --text-color: green !important;
+  --text-color: green; !important;
   --accent-color: #4b87f7 !important;
 }
 
